@@ -1,2 +1,2 @@
 # Earnings Call Sentiment
-How positive can CEO frame a negative news during earnings call?
+How positive can a CEO frame negative news during earnings call?
